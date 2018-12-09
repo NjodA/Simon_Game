@@ -16,7 +16,7 @@ Think about the logic then the coding and CSS.
 
 ## Link to the project
 
-[link to Tic Tac Toe](https://njoda.github.io/Tic-Tac-Toe-Game/)
+[link to Simon](https://njoda.github.io/Simon_Game/)
 
 
 ## What's next?
